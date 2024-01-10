@@ -1,0 +1,11 @@
+{
+	"filters": [
+		{
+			"description": "Exports your add-on into a \".mcaddon\", \".mcworld\", \".mctemplate\" automatically.",
+			"name": "Packaging add-on",
+			"runWith": "nodejs",
+			"script": "./exporter.js"
+		}
+	],
+	"version": "0.0.1"
+}
